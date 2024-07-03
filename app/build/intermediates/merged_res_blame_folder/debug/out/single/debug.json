@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-pngs-4:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\drawable_imagen2.png.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\drawable\\imagen2.png"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.proyecto.app-merged_res-9:/layout_toast_layout.xml.flat",
+        "source": "com.example.proyecto.app-main-11:/layout/toast_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\drawable_rounded_green.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\drawable\\rounded_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\drawable_rounded_spinner.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\drawable\\rounded_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\xml_rounded.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\xml\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\drawable_rounded.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\drawable_rounded_verde.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\drawable\\rounded_verde.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\drawable_rounded_white.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\drawable\\rounded_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\drawable_imagen1.png.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\drawable\\imagen1.png"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\layout_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-merged_res-9:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maily\\.gradle\\daemon\\7.4\\com.example.proyecto.app-main-11:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]
